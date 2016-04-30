@@ -1,4 +1,4 @@
-# Changes on 7/6-7
+# Changes on 7/6-7 2015
 
 The following notes describe the commits I made on the night of 7/6
 
