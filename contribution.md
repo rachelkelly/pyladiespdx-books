@@ -1,4 +1,4 @@
-brarPy
+## LibrarPy
 #### *A webapp to track technical library lending amongst Portland PyLadies*
 
 Hello!  This is a webapp written with the web framework [Flask](http://flask.pocoo.org/)
