@@ -52,13 +52,7 @@ mostly because it has good support and has been around a while.
 Please note, you do not have to do any of these to contribute if you feel happy and familiar 
 with them, but if you want to learn more about these things here are some resources that have 
 been battle-tested by a bunch of us here at PyLadies PDX
- * Djangogirls Python Tutorial
+ * [Djangogirls Python Tutorial](http://tutorial.djangogirls.org/en/index.html), which starts at the beginning and introduces Python.  Please learn as much as you'd like to of the Django portion but Django is a kind of Python web framework like Flask is, which means some of it will be different, but still related to the idea of Model View Controller.
  * Miguel Grinberg's Flask tutorial
- * html/css tutorial on codecademy???
- * postgres tutorial - I would LOVE to see one of these!!!
-
-Want to learn about?
-
-
-
-Here is what <needs to be done>
+ * Codecademy's [HTML/CSS beginner tutorial](https://www.codecademy.com/learn/web).  Their [Make A Website](https://www.codecademy.com/learn/make-a-website).
+ * [The Official PostgreSQL Tutorial](http://www.postgresql.org/docs/9.4/static/tutorial.html)
