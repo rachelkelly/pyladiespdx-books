@@ -3,9 +3,11 @@
 
 I. Purpose and Introduction
 II. Code of Conduct
-III. What has been done
-IV. What needs doing
-V. Recommended Tutorials
+III. How to get started
+IV. What has been done
+V. What needs doing
+VI. Recommended Tutorials
+VII. Attribution
 
 ### I. Purpose and Introduction
 The purpose of the app is to manage the vast quantity of technical books which the PyLadies
@@ -25,7 +27,16 @@ So you want to contribute!  AMAZING, THANK YOU.  Please see our [Code of Conduct
 in; first and foremost we are trying to make this a safe space for PyLadies to hack and code
 and work together.  Further, we are looking for contributions from women only, inclusive of trans women.
 
-### III. What has been done
+### III. How to get started
+First you'll want to pull down this git repository, which contains this README and all the code.
+If you have not used Git or Github before, welcome!  We've got a tutorial for you and we'd love
+to help you in person too at our Saturday Code and Learn events.
+
+```
+git clone git@github.com:rachelkelly/pyladiespdx-books.git
+```
+
+### IV. What has been done
  * Initial database setup
  * Heroku webapp creation and linkage
  * Virtualenv creation and complete `requirements.txt`
@@ -35,7 +46,7 @@ and work together.  Further, we are looking for contributions from women only, i
  * HTML-capable, DB-drawn list of books
  * Adapted [Contributor Covenant])(http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
 
-### IV. What NEEDS doing
+### V. What NEEDS doing
  * probably always cleaning up this document :)
  * change to Bootstrap CSS instead of Skeleton - it is more full-featured
  * Authorization (this has been started)
@@ -50,7 +61,7 @@ and work together.  Further, we are looking for contributions from women only, i
  * Add a FOSS license, I suggest [GPL 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0), 
 mostly because it has good support and has been around a while.
 
-### V. Tutorials
+### VI. Tutorials
 Please note, you do not have to do any of these to contribute if you feel happy and familiar 
 with them, but if you want to learn more about these things here are some resources that have 
 been battle-tested by a bunch of us here at PyLadies PDX
@@ -58,3 +69,10 @@ been battle-tested by a bunch of us here at PyLadies PDX
  * [Miguel Grinberg's Flask tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
  * Codecademy's [HTML/CSS beginner tutorial](https://www.codecademy.com/learn/web).  Their [Make A Website](https://www.codecademy.com/learn/make-a-website).
  * [The Official PostgreSQL Tutorial](http://www.postgresql.org/docs/9.4/static/tutorial.html)
+ * [First introduction to Github](https://guides.github.com/activities/hello-world/)
+ * [Further introduction to Git](http://gitimmersion.com/), the underlying tool behind modern source control - you can get as in depth or referential with this as you like.
+
+### VII. Attribution
+This app was originally created by Juliana Arrighi and Rachel Kelly in 2014.
+Code of Conduct adapted from Coraline Ada Ehmke's [Contributor Covenant])(http://contributor-covenant.org/).
+PyLadies PDX is the Portland arm of the international women's group PyLadies, a group of women Python programmers.  Find out more at our [Meetup](http://www.meetup.com/PyLadies-PDX/).
