@@ -1,24 +1,42 @@
-Next Steps as of 02/16/2015:
+[x] Setup virtualenv
+[x] Install Flask
 
-- Debug runerror file
+[x] Create Flask app 
+  __init__.py
+  static (css > skeleton)
+  templates (base.html, books.html)
+  models.py (empty for now)
+  view.py (render the books page)
+  run.py 
 
-- Postgres DB creation
-  - models, methods, views, (python)
-    - (X) peeled out the first models.py, views.py, removed app.py
-  - 'from_object' thing in __init__.py
-  - what data is going into the templates
-  - debug why titles aren't getting printed in the books template, only object identifiers
+[] Make it work on heroku
+  create proc file
+  set env vars?
 
-- Heroku setup - fiddle with debugging for app
+[x] Get DB stuff going
+  Install Flask-Migrate, Flask-SQLAlchemy, Flask-Script, SQLAlchemy, psycopg2
+  Create a manage script
+  Add db stuff to __init__py
+  Create models
+  Create migration + migrate    
+    python manage.py db init
+    python manage.py db migrate
+    python manage.py db upgrade
 
+[x] Add books to the database manually
 
-- Templates (pages OR base/global, in html/jinja)
-  - (X) skeleton imported
-  - (X) index.html base.html structured
-  - (X) app.py altered for skeleton
-  - Books page
-  - Navigation (skeleton?)
-  - Style
-    - Images, text content, page layout design, color
-    -   - ideally this can be given to someone who would like to help
+[x] make books page get books form the db
 
+[] Get working on heroku again
+
+[] move config to config file?
+
+[] work on book detail page
+
+[] Document existing code
+
+[] document environment setup
+
+[] describe a few tasks to be done
+
+[] Check in with Amy about what to do with docs
