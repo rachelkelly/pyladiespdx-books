@@ -13,9 +13,9 @@ have been given, or books which members own and are happy to lend.  We estimate 
 number of books exceeds a hundred, and once people start adding theirs that number will
 only increase.
 
-So you want to contribute!  AMAZING, THANK YOU.  Please see our Code of Conduct before jumping
+So you want to contribute!  AMAZING, THANK YOU.  Please see our [Code of Conduct](https://github.com/rachelkelly/pyladiespdx-books/blob/contribution/CODE_OF_CONDUCT.md) before jumping
 in; first and foremost we are trying to make this a safe space for PyLadies to hack and code
-and work together.
+and work together.  Further, we are looking for contributions from women only, inclusive of trans women.
 
 First, a list of **what needs work and what has been done**.  Below that list will be indicated
 a lump of **tutorials** for a contributor to take a look at if you would like, for example if you
@@ -31,10 +31,10 @@ databases, et cetera.
  * Stylesheet
  * Capacity to add new books with genuine connection to database
  * HTML-capable, DB-drawn list of books
+ * Adapted [Contributor Covenant])(http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
 
 #### What NEEDS doing
  * probably always cleaning up this document :)
- * add code of conduct, I suggest http://contributor-covenant.org/
  * change to Bootstrap CSS instead of Skeleton - it is more full-featured
  * Authorization (this has been started)
  * List of books by holder
