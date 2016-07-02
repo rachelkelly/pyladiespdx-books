@@ -33,7 +33,7 @@ and work together.  Further, we are looking for contributions from women only, i
  * Stylesheet
  * Capacity to add new books with genuine connection to database
  * HTML-capable, DB-drawn list of books
- * Adapted [Contributor Covenant])(http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
+ * Adapted [Contributor Covenant](http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
 
 ### IV. What NEEDS doing
  * probably always cleaning up this document :)
