@@ -44,7 +44,7 @@ git clone git@github.com:rachelkelly/pyladiespdx-books.git
  * Stylesheet
  * Capacity to add new books with genuine connection to database
  * HTML-capable, DB-drawn list of books
- * Adapted [Contributor Covenant])(http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
+ * Adapted [Contributor Covenant](http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
 
 ### V. What NEEDS doing
  * probably always cleaning up this document :)
