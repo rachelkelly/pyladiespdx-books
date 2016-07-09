@@ -30,15 +30,24 @@ and work together.  Further, we are looking for contributions from women only, i
 ### III. How to get started
 First you'll want to pull down this git repository, which contains this README and all the code.
 If you have not used Git or Github before, welcome!  We've got a tutorial for you (listed below in the Tutorials section) and we'd love
-to help you in person too at our Saturday Code and Learn events.
+to help you in person too at our Saturday Code and Learn events.  Another easy way to get started helping out is to create issues for the pieces listed in the What Needs To Be Done section.  For this, you only need a Github account!
 
-First, with your Github account, fork the repo.
+First, with your Github account, fork the repo.  Click the Fork button as demonstrated below, which will then make a copy of the repo at THIS state, on the Master branch.
 
 ![fork](https://github.com/rachelkelly/pyladiespdx-books/blob/master/fork.png "Fork image")
 
-```
-git clone git@github.com:rachelkelly/pyladiespdx-books.git
-```
+Then, pull the repo down locally.  In your terminal, you can do this by typing `git clone git@github.com:<YOUR GITHUB USERNAME HERE>/pyladiespdx-books.git`.  This will make a directory in your current location which contains all the files and directories you see here.  We've got tutorials below, and we're also happy to show you, so please reach out via our meetup if you'd like to talk more about this!
+
+Code will be approved by Pull Request only.  This is to emulate as close to an industry production-standard environment as possible.  To best contribute via PR (pull request), please use the following workflow:  
+
+1. Fork this repo at this level.  github.com/rachelkelly/pyladiespdx-books at the Master branch.
+2. Pull the repo down locally - this means to clone your OWN fork. `git clone git@github.com:<YOUR GITHUB USERNAME HERE>/pyladiespdx-books.git`
+3. Create a descriptive branch name for the changes you intend to make.  An example might be `README-typo-fix`.  So this would be `git checkout -b README-typo-fix` to create and move immediately within the branch.
+4. Make desired changes to code.
+5. Add changed files, commit files with a descriptive, imperative form commit message, and push to your own fork.
+6. At Github (not locally, & not at the command line), on your OWN fork, a green Create Pull Request button will appear.  Go ahead and click this.  The most important point on the ensuing screen is to make sure that the REMOTE and the BRANCH which you are creating the Pull Request **to** and **from** are accurate.  The PR should be going to rachelkelly/pyladiespdx-books on the branch name you created, and it must come from your fork of the repo on the branch name you created.  This PR will automatically create the branch on the rachelkelly/ repo.  
+7. The owner of the rachelkelly/ repo will either approve or turn down your PR with comments as to what needs to be fixed.  Often it's as simple as clarifying your commit message, or asking for more in-line explanatory comments!
+
 
 ### IV. What has been done
  * Initial database setup
