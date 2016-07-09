@@ -34,6 +34,8 @@ to help you in person too at our Saturday Code and Learn events.
 
 First, with your Github account, fork the repo.
 
+![hit the fork button! yay](https://github.com/rachelkelly/pyladiespdx-books/fork.png "Fork image")
+
 ```
 git clone git@github.com:rachelkelly/pyladiespdx-books.git
 ```
