@@ -1,13 +1,13 @@
 ## LibrarPy
 #### *A webapp to track technical library lending amongst Portland PyLadies*
 
-I. Purpose and Introduction
-II. Code of Conduct
-III. How to get started
-IV. What has been done
-V. What needs doing
-VI. Recommended Tutorials
-VII. Attribution
+I. Purpose and Introduction  
+II. Code of Conduct  
+III. How to get started  
+IV. What has been done  
+V. What needs doing  
+VI. Recommended Tutorials  
+VII. Attribution  
 
 ### I. Purpose and Introduction
 The purpose of the app is to manage the vast quantity of technical books which the PyLadies
@@ -29,8 +29,10 @@ and work together.  Further, we are looking for contributions from women only, i
 
 ### III. How to get started
 First you'll want to pull down this git repository, which contains this README and all the code.
-If you have not used Git or Github before, welcome!  We've got a tutorial for you and we'd love
+If you have not used Git or Github before, welcome!  We've got a tutorial for you (listed below in the Tutorials section) and we'd love
 to help you in person too at our Saturday Code and Learn events.
+
+First, with your Github account, fork the repo.
 
 ```
 git clone git@github.com:rachelkelly/pyladiespdx-books.git
@@ -44,6 +46,7 @@ git clone git@github.com:rachelkelly/pyladiespdx-books.git
  * Stylesheet
  * Capacity to add new books with genuine connection to database
  * HTML-capable, DB-drawn list of books
+ * MIT license added
  * Adapted [Contributor Covenant](http://contributor-covenant.org/) for CODE_OF_CONDUCT.md
 
 ### V. What NEEDS doing
@@ -58,8 +61,6 @@ git clone git@github.com:rachelkelly/pyladiespdx-books.git
    * both of these can be done with smtp python modules probably!
  * Write a list of rules
  * Tests
- * Add a FOSS license, I suggest [GPL 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0), 
-mostly because it has good support and has been around a while.
 
 ### VI. Tutorials
 Please note, you do not have to do any of these to contribute if you feel happy and familiar 
@@ -71,6 +72,7 @@ been battle-tested by a bunch of us here at PyLadies PDX
  * [The Official PostgreSQL Tutorial](http://www.postgresql.org/docs/9.4/static/tutorial.html)
  * [First introduction to Github](https://guides.github.com/activities/hello-world/)
  * [Further introduction to Git](http://gitimmersion.com/), the underlying tool behind modern source control - you can get as in depth or referential with this as you like.
+ * [exercism](http://www.exercism.io) as a way to get started understanding how tests work and as samples for how to write them, and how to write FOR them.  Particularly we recommend the [Python exercism track](http://exercism.io/languages/python), though many of the languages' problem sets are good.
 
 ### VII. Attribution
 This app was originally created by Juliana Arrighi and Rachel Kelly in 2014.
